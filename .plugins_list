@@ -19,3 +19,32 @@
 - FlowJS syntax highlighting
 - rbenv
 - tmux, maybe
+- bundle
+  - ack
+  - ctrlp
+  - jellybeans
+  - nerdcommenter
+  - nerdtree
+  - seagrey
+  - simplifysimplify
+  - spacemacs-theme
+  - syntastic
+  - vim-airline-themes
+  - vim-airline
+  - vim-buffergator
+  - vim-bundler
+  - vim-coffee-script
+  - vim-easymotion
+  - vim-fugitive
+  - vim-gitgutter
+  - vim-indent-guides
+  - vim-javascript
+  - vim-jsx
+  - vim-markdown
+  - vim-multiple-cursors
+  - vim-mustache-handlebards
+  - vim-octave
+  - vim-one
+  - vim-rails
+  - vim-ruby
+  - vim-trailing-whitespace
