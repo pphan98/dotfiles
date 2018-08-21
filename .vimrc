@@ -136,3 +136,6 @@ map <Leader>gd :Gdiff<CR>
 let g:syntastic_ruby_checkers = ['rubocop']
 " Pass in arg to rubocop to use config yml in each project
 let g:syntastic_ruby_rubocop_args = '-c .rubocop.yml'
+
+" Enable FlowJS syntax highlighting
+let g:javascript_plugin_flow = 1
